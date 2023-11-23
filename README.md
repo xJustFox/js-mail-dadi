@@ -18,3 +18,7 @@ Stabilire il vincitore, in base a chi fa il punteggio più alto.
 3. Crea un ciclo "For" per scrollare gli elementi dell'array
 4. Crea un "if" per definire se l'email inserita dall'utente è presente nell'array
 
+#### Dadi:
+1. Definisci una funzione "pc_num" con valore numerico random
+2. Definisci una funzione "user_num" con valore numerico random
+3. Crea un "else if" per decretare il vincitore 

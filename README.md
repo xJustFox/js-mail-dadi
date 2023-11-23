@@ -10,3 +10,11 @@ Attenzione: l'utilizzo della funzione includes non è ammesso. Se usato, comport
 ### Gioco dei dadi
 Generare un numero random da 1 a 6, sia per il giocatore sia per il computer.
 Stabilire il vincitore, in base a chi fa il punteggio più alto.
+
+### Problem Solving:
+#### Mail:
+1. Definisci un array contenente le email autorizzate
+2. Definisci una funzione "user_email" con valore inseribile dall'utente
+3. Crea un ciclo "For" per scrollare gli elementi dell'array
+4. Crea un "if" per definire se l'email inserita dall'utente è presente nell'array
+
